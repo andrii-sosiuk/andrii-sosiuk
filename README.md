@@ -3,7 +3,6 @@
 ## Contact Information
 - **Birth Date**: 03.12.1977
 - **Email**: [andrii.sosiuk@gmail.com](mailto:andrii.sosiuk@gmail.com)
-- **Phone**: +49 160 954 158 79
 - **LinkedIn**: [https://www.linkedin.com/in/andrii-sosiuk-b0241b6](https://www.linkedin.com/in/andrii-sosiuk-b0241b6)
 
 ## Summary
